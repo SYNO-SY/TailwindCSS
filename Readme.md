@@ -1,4 +1,4 @@
-#Tailwindcss boilerplate
+# Tailwindcss boilerplate
   ```Installing Tailwind CSS as a PostCSS plugin is the most seamless way to integrate it with build tools like webpack, Rollup, Vite, and Parcel.```
 
 # STEP - 01
